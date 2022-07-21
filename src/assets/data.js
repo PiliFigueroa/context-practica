@@ -1,4 +1,4 @@
-const movies = [
+export const data = [
     {
         id: 1,
         img: "https://es.web.img3.acsta.net/pictures/22/05/14/13/26/5638861.jpg",
